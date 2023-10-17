@@ -1,7 +1,7 @@
 # Project Title: Finding the Most Influencial Indicators of Broadband Adoption in United States Counties
 
 ## Project Description
-This project aims to bridge the digital divide in the United States by harnessing the power of big data analytics within the Azure Databricks environment. It encompasses data preprocessing, exploratory data analysis, feature selection, and the development of predictive models to identify and comprehend the socio-economic factors influencing internet accessibility. Through a holistic approach that involves data analysis, visualization, and machine learning, the project seeks to provide valuable insights for informed policy decisions and initiatives aimed at reducing the digital divide.
+This project aims to provide data-driven solutions to bridge the digital divide in the United States by harnessing the power of big data analytics within the Azure Databricks environment. It encompasses data preprocessing, exploratory data analysis, feature selection, and the development of predictive models to identify and comprehend the socio-economic factors influencing internet accessibility. Through a holistic approach that involves data analysis, visualization, and machine learning, the project seeks to provide valuable insights for informed policy decisions and initiatives aimed at reducing the digital divide.
 
 **Key Steps:** Data Import, Exploratory Data Analysis, Model Selection, Hyperparameter Tuning, and Production Model Deployment.
 
@@ -17,7 +17,7 @@ This code snippet specifies the location and type of a data file containing the 
 
 In this step, the code displays the first two rows of the DataFrame to validate record values and data types. It also prints the schema of the DataFrame to understand its structure.
 
-## Step 3: Generating a Comprehensive Summary Table
+## Step 3: Generating a Comprehensive Summary Table from Spark Dataframe
 
 This code generates a summary table for the DataFrame by calculating quantiles, such as percentiles and statistics like mean, count, minimum, and maximum. It also provides information about missing values for each column in the DataFrame, presenting a comprehensive overview of the data.
 
